@@ -1,2 +1,3 @@
 # Data-Structure-DAY-01-
-intro to data structure
+Introduction to data structure : (array, linked list, stack, queue, tree, graph)
+in the Day - 01 there is a basic introduction about array and few programs of it like insertion, deletion, linear and binary search..
